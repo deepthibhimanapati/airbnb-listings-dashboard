@@ -43,3 +43,6 @@ This graph highlights patterns in revenue generation over the weeks, showing ove
 Distinct Count of Bedroom Listings: A table showing the count of listings based on the number of bedrooms.
 
 This helps to understand the distribution of properties with varying bedroom counts, with a majority being smaller listings (1-2 bedrooms).
+
+![image](https://github.com/user-attachments/assets/17728585-15d0-407c-9040-51ee0ddaa49c)
+
